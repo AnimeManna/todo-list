@@ -1,0 +1,11 @@
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.createTodo {
+  width: 100%;
+  text-align: center;
+}
